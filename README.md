@@ -38,7 +38,7 @@ I am a Data Analyst with a background in Computer Applications and hands-on expe
 **Skills:** Data modeling, Data Cleaning and Prepration, dashboard design, Data Visualizing  
 **Focus:** Create an interactive HR Dashboard to track Company's Employee Data with respect to different departments,
 salary, gender or marital status.
-🔗 *Link to project folder*
+🔗 https://github.com/Roopkiran01/Roopkiran-Kaur-Data-Analytics-Portfolio/tree/main/HR%20Data%20Tracking
 
 ---
 
