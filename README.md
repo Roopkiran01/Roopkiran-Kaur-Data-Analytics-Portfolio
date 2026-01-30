@@ -33,19 +33,16 @@ I am a Data Analyst with a background in Computer Applications and hands-on expe
 
 ---
 
-### 2️⃣ World Mental Health Dashboard (Power BI + SQL)
-**Tools:** Power BI, SQL  
-**Skills:** Data modeling, Data Cleaning, dashboard design, Data Visualizing  
-**Focus:** Factors Affecting mental health, Country trends, Change rates  
+### 2️⃣ HR Dataset (Power BI + Powerquery + DAX)
+**Tools:** Power BI, Excel  
+**Skills:** Data modeling, Data Cleaning and Prepration, dashboard design, Data Visualizing  
+**Focus:** Create an interactive HR Dashboard to track Company's Employee Data with respect to different departments,
+salary, gender or marital status.
 🔗 *Link to project folder*
 
 ---
 
-### 3️⃣ Flair Airlines Pricing Analysis
-**Tools:** Python, Power BI  
-**Skills:** Pricing analytics, revenue insights, trend forecasting  
-**Focus:** Airline ticket pricing behavior & optimization insights  
-🔗 *Link to project folder*
+### 3️⃣ 
 
 ---
 
