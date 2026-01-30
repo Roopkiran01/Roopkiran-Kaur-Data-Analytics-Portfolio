@@ -29,7 +29,7 @@ I am a Data Analyst with a background in Computer Applications and hands-on expe
 **Tools:** Python/Excel  
 **Skills:** EDA, cleaning, visualization, user behavior analysis  
 **Focus:** Understanding smart device usage and generating business recommendations  
-🔗 *Link to project folder*
+🔗 https://github.com/Roopkiran01/Roopkiran-Kaur-Data-Analytics-Portfolio/tree/main/Bellabeat-Case-Study
 
 ---
 
